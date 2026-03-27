@@ -1,6 +1,6 @@
 # 🏦 Malaysian Banking Analytics: A Synthetic SQL Project
 
-> A self-initiated, end-to-end SQL project — database designed, data
+> A self-initiated, end-to-end SQL project, database designed, data
 > generated, and business analysis performed entirely from scratch.
 > No external datasets. No CSV imports. Pure SQL.
 
