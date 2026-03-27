@@ -62,7 +62,7 @@
 
 ---
 
-### 🚨 Loan-to-Deposit Ratio — Critical Risk Finding
+### 🚨 Loan-to-Deposit Ratio - Critical Risk Finding
 
 > ⚠️ Every active branch exceeds Bank Negara Malaysia's (BNM) recommended LDR ceiling of **90%**
 
