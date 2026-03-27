@@ -1,9 +1,9 @@
 ## ⚙️ Requirements
 
-| Requirement | Version |
-|---|---|
-| MySQL Server | 8.0 or above |
-| MySQL Workbench | 8.0 (recommended) |
+## Requirement:
+
+MySQL Server - 8.0 or above 
+MySQL Workbench - 8.0 (recommended)
 
 ## 🚀 How to Run
 
