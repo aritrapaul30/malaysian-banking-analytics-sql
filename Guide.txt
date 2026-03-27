@@ -1,0 +1,13 @@
+## ⚙️ Requirements
+
+| Requirement | Version |
+|---|---|
+| MySQL Server | 8.0 or above |
+| MySQL Workbench | 8.0 (recommended) |
+
+## 🚀 How to Run
+
+1. Open MySQL Workbench
+2. Run `01_schema_setup.sql` first
+3. Run `02_synthetic_data.sql` second
+4. Run `03_analysis_queries.sql` to view all results
