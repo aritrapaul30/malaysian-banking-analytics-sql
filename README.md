@@ -10,7 +10,7 @@
 
 | Detail | Value |
 |---|---|
-| 🏛️ Simulated Entity | `mybank_analytics` — Fictional Malaysian Retail Bank |
+| 🏛️ Simulated Entity | `mybank_analytics` - Fictional Malaysian Retail Bank |
 | 🛠️ Tool | MySQL 8.0 Workbench |
 | 📁 SQL Files | 3 structured files |
 | 🗃️ Total Tables | 8 relational tables |
@@ -24,7 +24,7 @@
 
 ---
 
-## 🗃️ Database Schema — 8 Tables
+## 🗃️ Database Schema - 8 Tables
 
 | Table | Purpose | Rows |
 |---|---|---|
@@ -45,7 +45,7 @@
 |---|---|
 | ⚙️ **Window Functions** | `RANK()`, `NTILE()`, `LAG()`, `SUM() OVER()` |
 | 🔗 **CTEs** | Customer 360 portfolio view (Q11) |
-| 🛡️ **Stored Procedure** | `GetCustomerPortfolio(customer_id)` — multi-result-set |
+| 🛡️ **Stored Procedure** | `GetCustomerPortfolio(customer_id)` - multi-result-set |
 | 👁️ **Views** | 4 pre-computed analytical views |
 | 🔒 **Constraints** | `CHECK`, `UNIQUE`, `ENUM`, `FK` with `ON DELETE RESTRICT` |
 | 📐 **Indexes** | 19 indexes across frequently queried columns |
@@ -57,8 +57,8 @@
 
 ### 🏢 Branch Performance
 - **Johor Bahru** holds the largest deposit base: **MYR 2,260,600** across 30 accounts
-- **KLCC (KL)** follows at MYR 1,618,600 — together covering **~62% of total bank deposits**
-- 3 East Malaysian branches (Kuching, Kota Kinabalu, Melaka) show **zero activity** — untapped market territory
+- **KLCC (KL)** follows at MYR 1,618,600 - together covering **~62% of total bank deposits**
+- 3 East Malaysian branches (Kuching, Kota Kinabalu, Melaka) show **zero activity** - untapped market territory
 
 ---
 
@@ -95,7 +95,7 @@
 | 🥈 Mass Market (Q3) | Mid-range | Salaried professionals |
 | 🥉 Entry Level (Q4) | Below MYR 30K | Younger / lower-income earners |
 
-> 💡 Two M40 customers appear in the Premium segment — proving savings
+> 💡 Two M40 customers appear in the Premium segment - proving savings
 > behaviour matters more than income tier alone.
 
 ---
@@ -103,8 +103,8 @@
 ### ⚠️ Delinquency Detection
 - **17 loan accounts** flagged in serious delinquency (>90 days overdue)
 - Overdue range: **843 to 1,808 days**
-- Most overdue: **Loh Thim Fook** — partial home loan payment unresolved for **1,808 days**
-- Largest shortfall: **Azlina Mansor** — MYR 9,266.56 outstanding on SME loan
+- Most overdue: **Loh Thim Fook** - partial home loan payment unresolved for **1,808 days**
+- Largest shortfall: **Azlina Mansor** - MYR 9,266.56 outstanding on SME loan
 - Disproportionately affects **M40-tier borrowers**
 
 ---
@@ -123,7 +123,7 @@
 ## 💡 Recommendations
 
 **Immediate Actions:**
-- 🚨 Launch deposit mobilisation campaigns — especially at Subang Jaya (438% LDR)
+- 🚨 Launch deposit mobilisation campaigns - especially at Subang Jaya (438% LDR)
 - ⚖️ Tighten loan approval controls across all 7 active branches
 - 📋 Escalate 17 delinquent accounts for NPL classification & credit remediation
 
@@ -145,5 +145,5 @@
 ## 👤 Author
 
 **Aritra Paul**
-Master of Business Analytics — Sunway University
+Master of Business Analytics - Sunway University
 🔗 [LinkedIn](https://linkedin.com/in/aritrapaul30) · [GitHub](https://github.com/aritrapaul30)
